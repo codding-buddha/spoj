@@ -25,7 +25,7 @@ class Hangover {
 		out.close();
 	}
 
-		private static class InputReader
+	private static class InputReader
     {
         private InputStream stream;
         private byte[] buf = new byte[1024];
